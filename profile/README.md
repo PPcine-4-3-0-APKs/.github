@@ -112,11 +112,11 @@ Clear app cache and restart the app.
 
 There are several reasons why PPCine APK stands out in the crowded streaming market. Below is a comparison of PPCine APK and other popular streaming apps:
 
-| **Feature** |**PPCine APK**| **Netflix** | **Amazon Prime** | **Disney+** |
+| **Feature** |**PPCine APK**|**Netflix**|**Amazon Prime**|**Disney+**|
 
-|-----------|-------------------------------------------------------|  
+|-----------|----------------|-----------|----------------|-----------|  
 
-| **Free Access**|✅|❌|❌|❌|
+| **Free Access**|    ✅    |     ❌   |      ❌        |         ❌|
 
 | **HD Streaming**| ✅| ✅|✅|✅|
 
